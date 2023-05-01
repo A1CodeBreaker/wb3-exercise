@@ -6,7 +6,7 @@ function favoriteThings() {
   
   function whyImHere() {
     console.log(
-      "I am here to improve my programing skills and learn more about the software development process from a real company. Getting a job would be nice too."
+      "I'm here to sharpen my coding abilities and discover more about the software development cycle from a real business. It would also be wonderful to get a job.."
     );
   }
   
