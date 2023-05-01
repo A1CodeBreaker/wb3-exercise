@@ -1,7 +1,7 @@
 function favoriteThings() {
     console.log("Name: Arondre Shelton");
     console.log("Favorite Movie: Avengers: Endgame");
-    console.log("Favorite band: The Beatles");
+    console.log("Favorite Band: The Beatles");
   }
   
   function whyImHere() {
@@ -12,7 +12,7 @@ function favoriteThings() {
   
   function favoritePlace() {
     console.log(
-      "Favorite Place: My favorite place to travel is Miami beacuse of its beautiful beaches,great weather,history,culture,sports and entertainment.  "
+      "Favorite Place: My favorite place to travel is Miami because of its beautiful beaches,great weather,history,culture,sports and entertainment."
     );
   }
   
