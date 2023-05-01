@@ -10,7 +10,7 @@ function favoriteThings() {
     );
   }
   
-  function favortiePlace() {
+  function favoritePlace() {
     console.log(
       "Favorite Place: My favorite place to travel is Miami beacuse of its beautiful beaches,great weather,history,culture,sports and entertainment.  "
     );
@@ -20,4 +20,4 @@ function favoriteThings() {
   
   whyImHere();
   
-  favortiePlace();
+  favoritePlace();
